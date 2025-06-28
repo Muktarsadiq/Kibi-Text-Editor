@@ -1,0 +1,12 @@
+/Users/user/Desktop/lets_c/text_editor/target/debug/deps/libnix-711fc618f12bb341.rmeta: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/macros.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/errno.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/fcntl.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/mod.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/signal.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/time.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/unistd.rs
+
+/Users/user/Desktop/lets_c/text_editor/target/debug/deps/nix-711fc618f12bb341.d: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/macros.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/errno.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/fcntl.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/mod.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/signal.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/time.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/unistd.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/macros.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/errno.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/fcntl.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/mod.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/signal.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/sys/time.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/nix-0.29.0/src/unistd.rs:
